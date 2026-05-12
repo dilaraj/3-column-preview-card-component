@@ -1,7 +1,17 @@
+@font-face {
+  font-family: BigShoulder;
+  src: url('./assets/fonts/BigShoulders-VariableFont_opsz\,wght.ttf');
+}
+
+@font-face {
+  font-family: LexendDeca;
+  src: url('./assets/fonts/LexendDeca-VariableFont_wght.ttf');
+}
+
 body {
-  padding: 0;
+  padding: 2em;
   margin: 0;
-  height: 100vh;
+  height: auto;
   background-color: hsl(0, 0%, 95%);
   display: flex;
   justify-content: center;
